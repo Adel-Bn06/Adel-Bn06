@@ -1,4 +1,4 @@
-<h1 align="center">Hi Github Users 👋, I'm Adel Benali</h1>
+<h1 align="center">Hi GitHub Users 👋, I'm Adel Benali</h1>
 <h3 align="center">Mean Stack Web Developer</h3>
 
 
