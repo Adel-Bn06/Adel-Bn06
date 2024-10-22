@@ -1,5 +1,7 @@
 <h1 align="center">Hi Github Users 👋, I'm Adel Benali</h1>
 <h3 align="center">Mean Stack Web Developer</h3>
+![Alt Text]("C:\Users\adelb\Downloads\ADDDD-removebg-preview.png")
+
 
 
 - 🌱 I’m currently learning **Final Year of Electronic and communications engineernig Spesilizing in Connected Systems**
