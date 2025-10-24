@@ -1,14 +1,34 @@
-<h1 align="center">Hi GitHub Users 👋, I'm Adel Benali</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="center">👋 Hi there, I'm <span style="color:#0078D7;">Adel Benali</span></h1>
+<h3 align="center">💻 Full Stack Developer | MEAN & .NET Enthusiast</h3>
 
-
-
--  I’m currently graduated as a **Software Engineer** From Enet'Com
-- 📫 How to reach me **adelbenali999@gmail.com** || **adel.benali@enetcom.u-safx.tn**
+<p align="center">
+  <a href="https://www.linkedin.com/in/adel-benali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/adelbenali" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:adelbenali999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://adelbenali-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 👨‍💻 About Me
+- 🎓 Final-year **Electronics & Communication Engineering** student, specializing in **Connected Systems**
+- 🌍 Passionate about **Web Development, AI, and IoT**
+- 🚀 Building projects using **Angular, Node.js, Express, MongoDB, and .NET**
+- 📫 Reach me at **adelbenali999@gmail.com**
+- 🌱 Currently improving my **.NET backend** and **SQL Server** skills
+
+---
+
+### 🛠️ Technologies & Tools
+
 <p align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
@@ -30,6 +50,27 @@
   
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
+---
+
+### 🚀 Featured Projects
+- 🧩 **Sticker Store Platform** — Full MEAN Stack e-commerce for custom sticker sales  
+- 🧠 **AI Medical Diagnosis System** — CNN-based interface for automatic disease detection  
+- 🧰 **Club Management Web App** — Developed using **Django** & **SQLite**  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adelbenali&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelbenali&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+⭐ **"Code. Create. Connect."**  
