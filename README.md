@@ -1,10 +1,10 @@
 <h1 align="center">Hi GitHub Users 👋, I'm Adel Benali</h1>
-<h3 align="center">Mean Stack Web Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 
 
-- 🌱 I’m currently learning **Final Year of Electronic and communications engineernig Spesilizing in Connected Systems**
-- 📫 How to reach me **adelbenali999@gmail.com**
+-  I’m currently graduated as a **Software Engineer** From Enet'Com
+- 📫 How to reach me **adelbenali999@gmail.com** || **adel.benali@enetcom.u-safx.tn**
 
 ---
 
