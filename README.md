@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | MEAN & .NET Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adel-benali" target="_blank">
+  <a href="https://www.linkedin.com/in/adelbenali/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:adelbenali999@gmail.com">
