@@ -8,7 +8,7 @@
   <a href="mailto:adelbenali999@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://adel-bn06.github.io/portfolio/about" target="_blank">
+  <a href="https://adel-benalii.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
